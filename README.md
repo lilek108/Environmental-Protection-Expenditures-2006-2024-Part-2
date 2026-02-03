@@ -92,7 +92,8 @@ While the total number of transactions remains broadly similar across regions an
 <img width="626" height="467" alt="Screenshot 2026-02-02 at 19 41 40" src="https://github.com/user-attachments/assets/7f8b0916-9a29-4b89-9aac-318dbad21024" />
 <img width="574" height="849" alt="Screenshot 2026-02-02 at 19 43 31" src="https://github.com/user-attachments/assets/34700646-3075-4c35-95b7-059e1fb620af" />
 <img width="575" height="844" alt="Screenshot 2026-02-02 at 19 43 53" src="https://github.com/user-attachments/assets/f2efa2d4-79da-4c7f-a652-c8b634a9c99a" />
-**'duverny'(blue) = confidential, 'verejny'(yellow) = public*
+
+*'duverny'(blue) = confidential, 'verejny'(yellow) = public*
 
 <br>
 <br>
