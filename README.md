@@ -55,12 +55,11 @@ When focusing strictly on public transactions with known amounts, financing appe
 
 **1. Confidential Transactions YoY Change**
 
-The share of transactions with undisclosed amounts increased significantly in the early years of the dataset. Although this proportion has remained relatively stable over the past decade, it is notably higher than in the initial years, indicating a lasting shift toward a greater presence of non-disclosed expenditures.
+*The share of transactions with undisclosed amounts increased significantly in the early years of the dataset. Although this proportion has remained relatively stable over the past decade, it is notably higher than in the initial years, indicating a lasting shift toward a greater presence of non-disclosed expenditures.*
 
 The total number of environmental transactions increased steadily until 2014. From 2014 to 2023, the overall transaction volume remained relatively stable, followed by a noticeable decline in 2024.
 
 <img width="631" height="462" alt="Screenshot 2026-02-02 at 13 41 39" src="https://github.com/user-attachments/assets/f5deb5f6-61ee-4b92-a0d7-95b47b01ebc6" />
-**'duverny'(blue) = confidential, 'verejny'(yellow) = public*
 
 <br>
 <br>
@@ -68,6 +67,8 @@ The total number of environmental transactions increased steadily until 2014. Fr
 A similar pattern is observed for public transactions : growth until 2014, a prolonged plateau, and a decrease in 2024, while the count of confidential transactions approxiamately stabilised already in 2010 with the same decrease pattern in 2024.
 
 <img width="629" height="461" alt="Screenshot 2026-02-02 at 13 42 12" src="https://github.com/user-attachments/assets/8965426a-0d7a-46e1-8a34-b0fc13142124" />
+
+*'duverny'(blue) = confidential, 'verejny'(yellow) = public*
 
 <br>
 <br>
@@ -81,7 +82,7 @@ When examining the share of confidential transactions in total transaction volum
 
 **2. Confidential Transactions Distribution**
 
-When aggregated across all years, the total number of transactions per region and per program remains broadly similar. This indicates that disparities in environmental funding are not primarily driven by transaction frequency, but by the monetary size of individual transactions (see Part 1 for detailed funding distribution analysis).
+*When aggregated across all years, the total number of transactions per region and per program remains broadly similar. This indicates that disparities in environmental funding are not primarily driven by transaction frequency, but by the monetary size of individual transactions (see Part 1 for detailed funding distribution analysis).*
 
 This finding increases the analytical importance of confidential transactions. Since confidential records do not disclose monetary amounts, their proportional presence becomes structurally significant: if funding differences are driven by transaction size rather than count, a higher share of confidential transactions may materially distort conclusions about actual financial allocation
 
@@ -120,7 +121,7 @@ By expenditure type, transaction volumes are structurally uneven, confidentialit
 
 **3. Exposure of the Relationship Between Regional/Program/Expense type Characteristics**
 
-**Environmental expenditures are structurally centralized besides a few special cases, while confidential transactions distort true program and regional priorities.**
+*Environmental expenditures are structurally centralized besides a few special cases, while confidential transactions distort true program and regional priorities.*
 
 **a. Programs by Regions and Regions by Programs**
 
